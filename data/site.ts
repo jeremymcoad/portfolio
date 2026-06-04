@@ -66,7 +66,7 @@ export const site = {
     {
       period: '10/2023 - PRESENT',
       title: 'Product Owner · Patient Engagement Platforms',
-      brandLogo: '/public/eyecare-partners.jpg',
+      brandLogo: 'eyecare-partners.jpg',
       company: 'EyeCare Partners',
       summary:
         'Spearheaded product strategy and delivery for HIPAA-compliant patient engagement systems, including a contact center UI with messaging automation and a patient portal integrated with healthcare EMR systems.',
@@ -80,7 +80,7 @@ export const site = {
     {
       period: '10/2022 - 9/2023',
       title: 'Customer Relationship Manager - Healthcare Marketing Technology',
-      brandLogo: '/public/eyecare-partners.jpg',
+      brandLogo: 'eyecare-partners.jpg',
       company: 'EyeCare Partners',
       summary:
         'Managed enterprise CRM strategy and marketing automation across a multi-brand healthcare organization.',
@@ -95,7 +95,7 @@ export const site = {
     {
       period: '1/2022 - 7/2022',
       title: 'Marketing Project Manager - Digital Health Initiatives',
-      brandLogo: '/public/eyecare-partners.jpg',
+      brandLogo: 'eyecare-partners.jpg',
       company: 'EyeCare Partners',
       summary:
         'Supported enterprise digital transformation initiatives focused on patient experience and digital presence.',
@@ -110,7 +110,7 @@ export const site = {
     {
       period: '1/2022 - 7/2022',
       title: 'Marketing Manager - Eyecare Services',
-      brandLogo: '/public/eiwf.jpg',
+      brandLogo: 'eiwf.jpg',
       company: 'The Eye Institute of West Florida',
       summary:
         'Led digital strategy and patient engagement initiatives for a multi-location specialty practice.',
