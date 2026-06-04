@@ -4,6 +4,11 @@ import icon from 'astro-icon';
 
 export default defineConfig({
   output: 'static',
+
+  // 🔥 REQUIRED for GitHub Pages
+  site: 'https://jeremymcoad.github.io',
+  base: '/portfolio',
+
   vite: {
     plugins: [tailwindcss()],
   },
