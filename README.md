@@ -78,3 +78,4 @@ Please read the [Contributing Guide](CONTRIBUTING.md) before opening a PR.
 
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this template.
+trigger deploy
