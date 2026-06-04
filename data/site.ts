@@ -20,7 +20,7 @@ export const site = {
     role: 'Product Owner - Healthcare Technology',
     tagline: 'From product intent to production — pragmatic systems, accessible UI, and maintainable code.',
     contact: 'Open to collaborations and senior IC roles on product-minded teams.',
-    avatarSrc: '/public/jeremy-m-coad-healthcare-technology-product-owner.png',
+    avatarSrc: 'jeremy-m-coad-healthcare-technology-product-owner.png',
     avatarAlt: 'Jeremy M Coad',
   },
   about: {
