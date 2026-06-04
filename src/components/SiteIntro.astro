@@ -15,6 +15,7 @@ const isSidebar = variant === 'sidebar';
     <div class="relative group mb-8 reveal-content flex justify-center" style="animation-delay: 100ms;">
       <div class="balloon-float w-20 h-20 md:w-24 md:h-24 rounded-full border-2 border-accent overflow-hidden shadow-[0_0_50px_color-mix(in_srgb,var(--color-accent)_33%,transparent)]">
         <img
+          class="transition duration-300 ease-in-out hover:grayscale"
           src={site.hero.avatarSrc}
           alt={site.hero.avatarAlt}
           class="h-full w-full scale-110 object-cover"
