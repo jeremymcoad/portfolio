@@ -30,16 +30,23 @@ export const site = {
       'Proven ability to lead product strategy, translate complex clinical and operational needs into scalable solutions, and deliver measurable improvements in access, engagement, and revenue cycle performance.',
       'Experienced working in HIPAA-compliant environments, aligning cross-functional stakeholders, and driving outcomes across patient engagement, CRM, and digital health ecosystems.',
       {
-        heading: 'Example focus areas',
+        heading: 'Core Competencies',
         bullets: [
-          'Designing APIs and client boundaries with typed contracts',
-          'Performance budgets, caching, and pragmatic observability',
-          'Shipping incrementally with feature flags and rollback-friendly deploys',
+          'Designing and delivering unified healthcare engagement platforms across fragmented EMR, CRM, and contact center systems',
+          'Translating product intent into scalable workflows on CDP-driven architectures (e.g., Twilio Segment) for patient data unification and activation',
+          'Improving agent and clinician efficiency through role-based dashboards, streamlined patient context, and reduced system switching',
+          'Driving cross-functional delivery as a Product Owner using Agile/Scrum, balancing stakeholder priorities with incremental release planning',
+          'Defining end-to-end patient journey experiences across messaging, scheduling, and support channels with a focus on usability and accessibility',
+          'Partnering with engineering to shape maintainable product structures, clear acceptance criteria, and production-ready delivery pipelines',
         ],
       },
       {
         heading: ' ',
-        techItems: ['Product Ownership', 'Stakeholder Management', 'Agile Methologies', 'Product Roadmapping', 'Customer Relationship Management'],
+        techItems: [
+        { label: 'cv', href: '/cv.pdf' },
+        { label: 'linked in', href: 'https://linkedin.com/in/yourprofile' },
+        { label: 'email', href: 'mailto:you@example.com' }
+],
       },
     ],
   },
