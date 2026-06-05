@@ -44,24 +44,15 @@ export const site = {
     ],
   },
   hobbies: {
-    paragraphs: [
-      'Product Owner with 10+ years of experience delivering digital products and patient engagement solutions, with a strong focus in healthcare technology and patient experience platforms.',
-      'Proven ability to lead product strategy, translate complex clinical and operational needs into scalable solutions, and deliver measurable improvements in access, engagement, and revenue cycle performance.',
-      'Experienced working in HIPAA-compliant environments, aligning cross-functional stakeholders, and driving outcomes across patient engagement, CRM, and digital health ecosystems.',
-      {
-        heading: 'Example focus areas',
-        bullets: [
-          'Designing APIs and client boundaries with typed contracts',
-          'Performance budgets, caching, and pragmatic observability',
-          'Shipping incrementally with feature flags and rollback-friendly deploys',
-        ],
-      },
-      {
-        heading: 'Sample stack',
-        techItems: ['Product Ownership', 'Stakeholder Management', 'Agile Methologies', 'Product Roadmapping', 'Customer Relationship Management'],
-      },
-    ],
-  },
+  paragraphs: [
+    '👋 Hello, my name is Jeremy Coad.',
+    `I’m naturally curious about how things work—whether building solutions professionally or taking things apart just to understand them.
+
+    Outside of work, I value family, music, and time with my guitar, which gives me space to think and reset. I enjoy working with my hands, tinkering, and solving problems.
+
+    Nature and travel keep me grounded and curious, and I try to carry that same curiosity and hands-on mindset into everything I do.`,
+  ],
+},
   experiences: [
     {
       period: '10/2023 - PRESENT',
