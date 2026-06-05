@@ -21,7 +21,7 @@ export const site = {
     role: 'Product Owner - Healthcare Technology',
     tagline: 'Leading product discovery, prioritization, and delivery for healthcare organizations focused on improving patient experiences.',
     contact: 'Known for aligning stakeholders, simplifying complexity, and turning strategy into successful product outcomes.',
-    avatarSrc: '/portfolio/jeremy-m-coad-healthcare-technology-product-owner.png',
+    avatarSrc: '/jeremy-m-coad-healthcare-technology-product-owner.png',
     avatarAlt: 'Jeremy M Coad',
   },
   about: {
