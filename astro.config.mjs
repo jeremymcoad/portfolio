@@ -7,7 +7,7 @@ export default defineConfig({
 
   // 🔥 REQUIRED for GitHub Pages
   site: 'https://jeremymcoad.github.io',
-  base: '/portfolio',
+  base: '/',
 
   vite: {
     plugins: [tailwindcss()],
