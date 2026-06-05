@@ -33,8 +33,12 @@ const imageSrc = imageOverride ?? (project.image ? (project.image.startsWith('/'
   )}
 
   <div class="space-y-4">
-    <p class="body-copy">{project.summary}</p>
-
+    {project.summary && (
+      <div>
+        <dt class="text-xs uppercase tracking-wider text-accent">Challenge</dt>
+        <dd class="mt-1.5 text-slate">{project.summary}</dd>
+      </div>
+    )}
     {project.solution && (
       <div>
         <dt class="text-xs uppercase tracking-wider text-accent">Solution</dt>
