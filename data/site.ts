@@ -50,7 +50,7 @@ export const site = {
 
     Outside of work, I value family, music, and time with my guitar, which gives me space to think and reset. I enjoy working with my hands, tinkering, and solving problems.
 
-    Nature and travel keep me grounded and curious, and I try to carry that same curiosity and hands-on mindset into everything I do.`,
+    Travel and nature keep me grounded and curious, and I try to carry that same curiosity and hands-on mindset into everything I do.`,
   ],
 },
   experiences: [
