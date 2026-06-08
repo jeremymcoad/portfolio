@@ -43,9 +43,9 @@ export const site = {
       {
         heading: ' ',
         techItems: [
-        { label: 'cv', href: '/cv.pdf' },
-        { label: 'linked in', href: 'https://linkedin.com/in/yourprofile' },
-        { label: 'email', href: 'mailto:you@example.com' }
+        { label: 'cv', href: '/Jeremy-Coad-Healthcare-Technology-Product-Owner_web.pdf' },
+        { label: 'linked in', href: 'https://linkedin.com/in/jeremymcoad' },
+        { label: 'email', href: 'mailto:jeremymatthewcoad@gmail.com' }
 ],
       },
     ],
